@@ -8,4 +8,4 @@ Primeiro projeto do flutter.
 um aplicativo simples contando um resumo da história e da cultura do país Paraguai para o projeto da mostra cultural anual da Etec Basilides de Godoy.  
   
   ## Sumário da wiki:
-https://github.com/dunguinhas/Flutter-App-Mostra-Cultural/wiki
+https://github.com/dunguinhas/Flutter-App-Mostra-Cultural/wiki/Desenvolvimento
